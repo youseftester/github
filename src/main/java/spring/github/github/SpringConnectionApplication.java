@@ -9,5 +9,4 @@ public class SpringConnectionApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringConnectionApplication.class, args);
 	}
-nigger
 }
